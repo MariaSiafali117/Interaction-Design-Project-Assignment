@@ -1,8 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+### First and Last Name: Anna Mitsiani  Stella Siafali  Maria Siafali 
+### University Registration Number: dpsd19074 dpsd19118 dpsd19117
+### GitHub Personal Profile:  https://github.com/AnnaMitsiani https://github.com/StellaSiafali https://github.com/MariaSiafali117
 
 # Introduction
 
@@ -10,7 +10,32 @@
 
 
 # 1st Deliverable
+1. Design Brief : Σκοπός μας είναι να επεξεργαστούμε παιδικά καθημερινά παπούτσια ώστε να εκπέμπουν φως. Θα φωτάκια θα είναι ρυθμιζμένα και πργραματισμένα να ανάβουν μέσω την γλώσσας προγραματισμού ardouino. Τα φωτάκια θα ανάβουν με συγκεκριμένη συχνότητα (15" το καθένα) και σε διάφορα χρώματα (8 βασικά). Το κάθε χρώμα θα διαδέχεται το επόμενο ομαλά. Τα χρώματα που πρόκειται να φωτίζουν είναι: μαύρο, άσπρο, κόκκινο, πράσινο, μπλε, κίτρινο, ματζέντα κυανό. Μέσα από το συγκεκριμένο προϊόν το κάθε παιδί θα έχει την δυνατότητα να βιώσει μια ξεχωριστή εμπιρεία νιώθωντας μοναδικό. Παράλληλα έρχεται σε άμεση επαφή με την τεχνολογία καθέ φορά που φορά το συγκεκιμένο παππούτσι. Συνδιάζεται η ρουτίνα με το παιχνίδι και την τεχνολογία, ώστε τα παππούτια να αποκτήσουν άλλο νόημα και να μην είναι βαρετά. Δεν ενδείκνετε για μέρες που έχει βροχή ή χιόνι.
 
+2. Research 
+i. οι ομάδες χρηστών μας είναι παιδιά ηλικίας 8-13 ετών.
+ii. οι χρήστες πριν έρθουν σε επαφή με το προϊόν μας χρησιμοποιούσαν συνηθησμένα απλά παππούτσια.
+iii. λαμβάνουμε υπόψη ότι τα παιδιά φοράνε παππούτσια καθημερινά, στο σχολείο και σε εξωσχολικές δραστηριότητες. 
+iv. Τεχνολογίες που έχουν χρησιμοποιηθεί: 
+
+a. μεμονωμένα έγχρωμα LED στερεάς κατάστασης ραμμένα στο επάνω ύφασμα ή ενσωματωμένα σε ένα διάφανο λαστιχένιο παράθυρο στη φτέρνα. Το κύκλωμα, ο αισθητήρας και η μπαταρία περιέχονται στη σόλα έτσι ώστε να μην προκαλούν ενόχληση στο ευαίσθητο πόδι του χρήστη.
+
+b. ενσωματωμένη λωρίδα LED Addressable WS2812 και έναν Mini Microcontroller Qduino. Τα LED μπορούν εύκολα να προγραμματιστούν και να επαναπρογραμματιστούν για αμέτρητες προσαρμογές χρωμάτων, μοτίβων και κινούμενων εικόνων.
+
+c. φώτα που περιβάλλουν ολόκληρο το παπούτσι, όχι μόνο τη φτέρνα, και ασφαλείς επαναφορτιζόμενες μπαταρίες USB (χωρίς υδράργυρο)
+
+d. Παπούτσια LED κατασκευασμένα με μικροελεγκτή Arduino. Με βάση την πίεση που ασκείται σε αυτές τις περιοχές (δάχτυλα των ποδιών και φτέρνες), διαφορετικές εντάσεις και χρώματα των φώτων LED θα εμφανίζονται στα παπούτσια. Tα φώτα LED είναι προγραμματισμένα με κωδικό Arduino, χρησιμοποιώντας μικροελεγκτή FLORA. Ο μικροελεγκτής είναι ραμμένος στο πτερύγιο των παπουτσιών και το κύκλωμα τροφοδοτείται από επαναφορτιζόμενες μπαταρίες.
+
+ Ανταγωνιστικά Προϊόντα
+https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all
+https://learn.adafruit.com/firewalker-led-sneakers/overview
+https://m.lightinthebox.com/narrow/light-up-shoes-kids-shoes3_37195?a=266513_a10991t0
+https://www.amazon.com/Carters-Atlas-Sneaker-Multi-Toddler/dp/B08ZJSX8FF/ref=mp_s_a_1_6?keywords=light+up+shoes+for+kids&qid=1648746168&sr=8-6
+https://www.skechers.com/kids/boys/s-lights-thermo-flash/400106L.html
+https://www.skechers.com/kids/boys/s-lights-skech-o-saurus-lights/400110L.html
+https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html
+https://www.zappos.com/p/skechers-kids-lighted-light-storm-2-0-400150n-toddler-black-red/product/9616080/color/144
+https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1
 
 # 2nd Deliverable
 
