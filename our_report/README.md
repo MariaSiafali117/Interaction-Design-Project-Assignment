@@ -120,6 +120,8 @@ INFORMATION ARCHITEXTURE
 ![Στιγμιότυπο οθόνης (297)](https://user-images.githubusercontent.com/101007425/167315274-001b15c4-b1da-4a8d-9beb-fbd2bdee0565.png)
 
 
+![Στιγμιότυπο οθόνης (298)](https://user-images.githubusercontent.com/101007425/167317085-8ecb6f93-f42a-413d-afe8-11e7d0114540.png)
+
 
 
 USER INTERACTION
