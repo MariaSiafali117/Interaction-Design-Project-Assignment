@@ -1,3 +1,4 @@
+![Στιγμιότυπο οθόνης (296)](https://user-images.githubusercontent.com/101007425/167310785-44236bfd-fcea-40a2-b18f-688a62e37425.png)
 # Lesson: Interaction Design
 
 ### First and Last Name: Anna Mitsiani  Stella Siafali  Maria Siafali 
@@ -114,6 +115,8 @@
 # 2nd Deliverable
 
 INFORMATION ARCHITEXTURE
+
+![Στιγμιότυπο οθόνης (296)](https://user-images.githubusercontent.com/101007425/167310806-ccb7462d-39ce-4226-b6fe-5135e6b628d9.png)
 
 
 USER INTERACTION
