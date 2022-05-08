@@ -116,7 +116,9 @@
 
 INFORMATION ARCHITEXTURE
 
-![Στιγμιότυπο οθόνης (296)](https://user-images.githubusercontent.com/101007425/167315246-3546cb17-975e-4838-8e63-8ef578405c00.png)
+
+![Στιγμιότυπο οθόνης (297)](https://user-images.githubusercontent.com/101007425/167315274-001b15c4-b1da-4a8d-9beb-fbd2bdee0565.png)
+
 
 
 
@@ -126,8 +128,7 @@ USER INTERACTION
 
 INTERFACE DESIGN 
 
-![Στιγμιότυπο οθόνης (297)](https://user-images.githubusercontent.com/101007425/167315274-001b15c4-b1da-4a8d-9beb-fbd2bdee0565.png)
-
+![Στιγμιότυπο οθόνης (296)](https://user-images.githubusercontent.com/101007425/167315246-3546cb17-975e-4838-8e63-8ef578405c00.png)
 
 # 3rd Deliverable 
 
