@@ -1,4 +1,4 @@
-![Στιγμιότυπο οθόνης (296)](https://user-images.githubusercontent.com/101007425/167310785-44236bfd-fcea-40a2-b18f-688a62e37425.png)
+
 # Lesson: Interaction Design
 
 ### First and Last Name: Anna Mitsiani  Stella Siafali  Maria Siafali 
