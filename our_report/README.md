@@ -37,22 +37,22 @@ iv.Review needed Technologies
 
 -Τεχνολογίες που έχουν χρησιμοποιηθεί: 
   a. Mεμονωμένα έγχρωμα LED στερεάς κατάστασης ραμμένα στο επάνω ύφασμα ή ενσωματωμένα σε ένα διάφανο λαστιχένιο παράθυρο στη φτέρνα. Το κύκλωμα, ο αισθητήρας και η
-     μπαταρία περιέχονται στη σόλα έτσι ώστε να μην προκαλούν ενόχληση στο ευαίσθητο πόδι του χρήστη./
+     μπαταρία περιέχονται στη σόλα έτσι ώστε να μην προκαλούν ενόχληση στο ευαίσθητο πόδι του χρήστη.
   b. Ενσωματωμένη λωρίδα LED Addressable WS2812 και έναν Mini Microcontroller Qduino. Τα LED μπορούν εύκολα να προγραμματιστούν και να επαναπρογραμματιστούν για
-   αμέτρητες προσαρμογές χρωμάτων, μοτίβων και κινούμενων εικόνων./
-  c. φώτα που περιβάλλουν ολόκληρο το παπούτσι, όχι μόνο τη φτέρνα, και ασφαλείς επαναφορτιζόμενες μπαταρίες USB (χωρίς υδράργυρο)/
+   αμέτρητες προσαρμογές χρωμάτων, μοτίβων και κινούμενων εικόνων.
+  c. φώτα που περιβάλλουν ολόκληρο το παπούτσι, όχι μόνο τη φτέρνα, και ασφαλείς επαναφορτιζόμενες μπαταρίες USB (χωρίς υδράργυρο).
   d. Παπούτσια LED κατασκευασμένα με μικροελεγκτή Arduino. Με βάση την πίεση που ασκείται σε αυτές τις περιοχές (δάχτυλα των ποδιών και φτέρνες), διαφορετικές εντάσεις      και χρώματα των φώτων LED θα εμφανίζονται στα παπούτσια. Tα φώτα LED είναι προγραμματισμένα με κωδικό Arduino, χρησιμοποιώντας μικροελεγκτή FLORA. Ο μικροελεγκτής      είναι ραμμένος στο πτερύγιο των παπουτσιών και το κύκλωμα τροφοδοτείται από επαναφορτιζόμενες μπαταρίες.
 
 -Ανταγωνιστικά Προϊόντα:
-  https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all
-  https://learn.adafruit.com/firewalker-led-sneakers/overview
-  https://m.lightinthebox.com/narrow/light-up-shoes-kids-shoes3_37195?a=266513_a10991t0
-  https://www.amazon.com/Carters-Atlas-Sneaker-Multi-Toddler/dp/B08ZJSX8FF/ref=mp_s_a_1_6?keywords=light+up+shoes+for+kids&qid=1648746168&sr=8-6
-  https://www.skechers.com/kids/boys/s-lights-thermo-flash/400106L.html
-  https://www.skechers.com/kids/boys/s-lights-skech-o-saurus-lights/400110L.html
-  https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html
-  https://www.zappos.com/p/skechers-kids-lighted-light-storm-2-0-400150n-toddler-black-red/product/9616080/color/144
-  https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1
+ https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all
+ https://learn.adafruit.com/firewalker-led-sneakers/overview
+ https://m.lightinthebox.com/narrow/light-up-shoes-kids-shoes3_37195?a=266513_a10991t0
+ https://www.amazon.com/Carters-Atlas-Sneaker-Multi-Toddler/dp/B08ZJSX8FF/ref=mp_s_a_1_6?keywords=light+up+shoes+for+kids&qid=1648746168&sr=8-6
+ https://www.skechers.com/kids/boys/s-lights-thermo-flash/400106L.html
+ https://www.skechers.com/kids/boys/s-lights-skech-o-saurus-lights/400110L.html
+ https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html
+ https://www.zappos.com/p/skechers-kids-lighted-light-storm-2-0-400150n-toddler-black-red/product/9616080/color/144
+ https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1
 
 Τεχνολογίες που εμπρόκειτο να χρησμοποιήσομε:
 - LILY PU
