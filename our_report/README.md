@@ -116,6 +116,7 @@
 
 INFORMATION ARCHITEXTURE
 
+![Στιγμιότυπο οθόνης (296)](https://user-images.githubusercontent.com/101007425/167313612-14d7ee13-6572-468b-b3c7-5bcf336a9bc5.png)
 
 
 USER INTERACTION
