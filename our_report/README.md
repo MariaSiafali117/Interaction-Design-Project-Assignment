@@ -14,7 +14,7 @@
   To προϊον θα διαθέτει δύο ειδών φωτεινότητας κα θερμοκρασίας κάθως και φωτάκια led. Ο αισθητήρας φωτεινότητας αντιλαμβάνεται την φωτεινότητα του πειβάλλοντος και όταν αυτή είναι χαμηλή (ξεπεράσει την τιμή, πιο συγκεκριμένα στον κώδικα) θα δίνει εντολή να ανάψουν τα led φωτάκια. Ο αισθητήρας θερμοκρασίας αντιλαμβάνεται την θερμοκρασία του ποδιού στο παππούτσι και ενργοποιεί τα led φωτάκια μόλις η θερμακρασία αυτή φτάσει και ξεπεράσει τους 28°C. Τα φωτάκια led θα ενεργοποιούνται αν και μόνο αν και οι δύο παράμετροι ταυτόχρονα ( χαμηλή φωτεινότητα και θερμοκρασία από 28°C και πάνω) είναι αληθής. Επιλέξαμε να χρησιμοποιήσουμε αισθητήρα θερμοκρασίας έτσι ώστε όταν το παιδί βγάλει το παππούτσι να σβήνουν τα φωτάκια, αφού θα έχει πέσει και η θερμοκρασία ανεξατήτως της φωτεινότητας. 
 
 2. Research  
-i. Analyse People: 
+   i. Analyse People: 
    -PEOPLE: (Οι ομάδες χρηστών μας είναι) παιδιά.
    -ΔΗΜΟΓΡΑΦΙΚΑ ΣΤΟΙΧΕΙΑ 
     Φύλο: Αγόρια, Κορίτσια
@@ -22,13 +22,13 @@ i. Analyse People:
     Κατοικία: Ελλάδα 
     Χαρακτηριστικά: Ανεμελιά, άγνοια κινδύνου, απροσεξία, παιχνιδιάρικη διάθεση, ενθουσιασμός, παρορμητισμός, ενέργεια.
    
-ii. Define Activities 
+   ii. Define Activities 
     -What users do before your project?
     Οι χρήστες/παιδιά πριν έρθουν σε επαφή με το προϊόν μας χρησιμοποιούσαν συνηθησμένα απλά παππούτσια και πολλές φορές δεν έχουν καμία συσκευή που να τους παρέχει 
     φως,ιδιαίτερα όταν περπατάνε στον δρόμο. Σε περίπτωση που βρίσκονται πάνω σε ένα ποδήλατο ο μόνος τρόπος να γίνονται αντιληπτοί τις ώρες που η φωτεινότητα είναι   
     χαμηλή είναι με τα φώτα γώτα που διαθέτουν τα ποδήλατα.
     
-iii. Describe Context 
+   iii. Describe Context 
      -What are the contextual information we have before the intervention?
       Λαμβάνουμε υπόψη ότι τα παιδιά φοράνε παππούτσια καθημερινά, στο σχολείο και σε εξωσχολικές δραστηριότητες. 
      
@@ -38,21 +38,24 @@ iv.Review needed Technologies
 -Τεχνολογίες που έχουν χρησιμοποιηθεί: 
   a. Mεμονωμένα έγχρωμα LED στερεάς κατάστασης ραμμένα στο επάνω ύφασμα ή ενσωματωμένα σε ένα διάφανο λαστιχένιο παράθυρο στη φτέρνα. Το κύκλωμα, ο αισθητήρας και η
      μπαταρία περιέχονται στη σόλα έτσι ώστε να μην προκαλούν ενόχληση στο ευαίσθητο πόδι του χρήστη.
+     
   b. Ενσωματωμένη λωρίδα LED Addressable WS2812 και έναν Mini Microcontroller Qduino. Τα LED μπορούν εύκολα να προγραμματιστούν και να επαναπρογραμματιστούν για
-   αμέτρητες προσαρμογές χρωμάτων, μοτίβων και κινούμενων εικόνων.
+     αμέτρητες προσαρμογές χρωμάτων, μοτίβων και κινούμενων εικόνων.
+     
   c. φώτα που περιβάλλουν ολόκληρο το παπούτσι, όχι μόνο τη φτέρνα, και ασφαλείς επαναφορτιζόμενες μπαταρίες USB (χωρίς υδράργυρο).
+  
   d. Παπούτσια LED κατασκευασμένα με μικροελεγκτή Arduino. Με βάση την πίεση που ασκείται σε αυτές τις περιοχές (δάχτυλα των ποδιών και φτέρνες), διαφορετικές εντάσεις      και χρώματα των φώτων LED θα εμφανίζονται στα παπούτσια. Tα φώτα LED είναι προγραμματισμένα με κωδικό Arduino, χρησιμοποιώντας μικροελεγκτή FLORA. Ο μικροελεγκτής      είναι ραμμένος στο πτερύγιο των παπουτσιών και το κύκλωμα τροφοδοτείται από επαναφορτιζόμενες μπαταρίες.
 
 -Ανταγωνιστικά Προϊόντα:
- https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all
- https://learn.adafruit.com/firewalker-led-sneakers/overview
- https://m.lightinthebox.com/narrow/light-up-shoes-kids-shoes3_37195?a=266513_a10991t0
- https://www.amazon.com/Carters-Atlas-Sneaker-Multi-Toddler/dp/B08ZJSX8FF/ref=mp_s_a_1_6?keywords=light+up+shoes+for+kids&qid=1648746168&sr=8-6
- https://www.skechers.com/kids/boys/s-lights-thermo-flash/400106L.html
- https://www.skechers.com/kids/boys/s-lights-skech-o-saurus-lights/400110L.html
- https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html
- https://www.zappos.com/p/skechers-kids-lighted-light-storm-2-0-400150n-toddler-black-red/product/9616080/color/144
- https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1
+https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all
+https://learn.adafruit.com/firewalker-led-sneakers/overview
+https://m.lightinthebox.com/narrow/light-up-shoes-kids-shoes3_37195?a=266513_a10991t0
+https://www.amazon.com/Carters-Atlas-Sneaker-Multi-Toddler/dp/B08ZJSX8FF/ref=mp_s_a_1_6?keywords=light+up+shoes+for+kids&qid=1648746168&sr=8-6
+https://www.skechers.com/kids/boys/s-lights-thermo-flash/400106L.html
+https://www.skechers.com/kids/boys/s-lights-skech-o-saurus-lights/400110L.html
+https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html
+https://www.zappos.com/p/skechers-kids-lighted-light-storm-2-0-400150n-toddler-black-red/product/9616080/color/144
+https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1
 
 Τεχνολογίες που εμπρόκειτο να χρησμοποιήσομε:
 - LILY PU
