@@ -106,7 +106,7 @@
 
 # 2nd Deliverable
 
-**INFORMATION ARCHITEXTURE
+**INFORMATION ARCHITEXTURE**
 
 
 ![Στιγμιότυπο οθόνης (297)](https://user-images.githubusercontent.com/101007425/167315274-001b15c4-b1da-4a8d-9beb-fbd2bdee0565.png)
@@ -116,12 +116,12 @@
 
 
 
-**USER INTERACTION
+**USER INTERACTION**
 
 Το προϊόν θα είναι wearable, ο χρήστης χρειάζεται απλά να φορέσει τα παπούτσια.
 
 
-**INTERFACE DESIGN 
+**INTERFACE DESIGN** 
 
 To προϊον θα διαθέτει δύο ειδών αισθητήρες, φωτεινότητας κα θερμοκρασίας κάθως και φωτάκια led. Τα φωτάκια θα ενεργοποιηθούν μόνο όταν ο αισθητήρας φωτεινότητας αντιληφθεί χαμηλή φωτεινότητα ΚΑΙ ο ασθητήρας θερμοκρασίας αντιληφθεί την θερμοκρασία όταν αυτή φτάσει και ξεπεράσει τους 28°C . 
 
