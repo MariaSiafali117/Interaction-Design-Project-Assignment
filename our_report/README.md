@@ -29,7 +29,7 @@
     
     - φακός
     
-    -τίποτα
+    - τίποτα
     
     
    iii. Describe Context 
