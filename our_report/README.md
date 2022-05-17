@@ -20,12 +20,13 @@
 
    i. Analyse People: 
    
-      -PEOPLE-ΟΜΑΔΑ ΧΡΗΣΤΩΝ: Παιδιά ηλικίας 10-13
+      -- PEOPLE-ΟΜΑΔΑ ΧΡΗΣΤΩΝ: 
+         - Παιδιά ηλικίας 10-13
 
    
    ii. Define Activities 
    
-    -What users do before your project?
+    -- What users do before your project?
     
     - φακός
     
