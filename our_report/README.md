@@ -18,13 +18,13 @@
 
 2. Research  
 
-   i. Analyse People: 
+   i.  Analyse People: 
    
       - PEOPLE-ΟΜΑΔΑ ΧΡΗΣΤΩΝ: 
          - Παιδιά ηλικίας 10-13
 
    
-   ii. Define Activities 
+   ii.  Define Activities 
    
       - What users do before your project?
     
@@ -33,7 +33,7 @@
         - τίποτα
     
     
-   iii. Describe Context 
+   iii.  Describe Context 
    
      - What are the contextual information we have before the intervention?
      
@@ -45,7 +45,7 @@
       λύση είναι να είναι τα παππούτσια τους. Έτσι θα αισθάνονται ασφάλεια τόσο τα παιδιά όσο και οι οδηγοί που υπήρχε περίπτωση να τα τραυματίσουν.
      
      
-   iv.Review needed Technologies  
+   iv.  Review needed Technologies  
 
      - Τεχνολογίες που έχουν χρησιμοποιηθεί: 
      
