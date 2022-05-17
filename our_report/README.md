@@ -28,7 +28,7 @@
    
       - What users do before your project?
     
-        - φακός
+        - χρησιμοποιούν φακό
     
         - τίποτα
     
