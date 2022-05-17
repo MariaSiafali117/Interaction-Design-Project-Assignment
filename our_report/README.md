@@ -26,11 +26,11 @@
    
    ii. Define Activities 
    
-    -- What users do before your project?
+      - What users do before your project?
     
-    - φακός
+        - φακός
     
-    - τίποτα
+        - τίποτα
     
     
    iii. Describe Context 
