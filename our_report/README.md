@@ -76,7 +76,7 @@
 
        <a href="https://www.skechers.com/kids/boys/s-lights-skech-o-saurus-lights/400110L.html">Link6</a> 
 
-       <a href="(https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html)">Link7</a>
+       <a href="https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html">Link7</a>
 
        <a href="https://www.zappos.com/p/skechers-kids-lighted-light-storm-2-0-400150n-toddler-black-red/product/9616080/color/144">Link8</a>
 
