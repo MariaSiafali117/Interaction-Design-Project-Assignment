@@ -48,36 +48,35 @@
    iv.  Review needed Technologies  
 
  - Τεχνολογίες που έχουν χρησιμοποιηθεί: 
-     
-    a. Mεμονωμένα έγχρωμα LED στερεάς κατάστασης ραμμένα στο επάνω ύφασμα ή ενσωματωμένα σε αυτό. Το κύκλωμα, ο αισθητήρας και
-        η μπαταρία περιέχονται στη σόλα έτσι ώστε να μην προκαλούν ενόχληση στο ευαίσθητο πόδι του χρήστη.
+     <ol>
+     <li> Mεμονωμένα έγχρωμα LED στερεάς κατάστασης ραμμένα στο επάνω ύφασμα ή ενσωματωμένα σε αυτό. Το κύκλωμα, ο αισθητήρας και
+        η μπαταρία περιέχονται στη σόλα έτσι ώστε να μην προκαλούν ενόχληση στο ευαίσθητο πόδι του χρήστη. </li>
         
-    b. Ενσωματωμένη λωρίδα LED Addressable WS2812 και έναν Mini Microcontroller Qduino. Τα LED μπορούν εύκολα να προγραμματιστούν και να επαναπρογραμματιστούν για
-         αμέτρητες προσαρμογές χρωμάτων, μοτίβων και κινούμενων εικόνων.
+     <li> Ενσωματωμένη λωρίδα LED Addressable WS2812 και έναν Mini Microcontroller Qduino. Τα LED μπορούν εύκολα να προγραμματιστούν και να επαναπρογραμματιστούν για
+         αμέτρητες προσαρμογές χρωμάτων, μοτίβων και κινούμενων εικόνων. </li>
          
-    c. φώτα που περιβάλλουν ολόκληρο το παπούτσι, όχι μόνο τη φτέρνα, και ασφαλείς επαναφορτιζόμενες μπαταρίες USB (χωρίς υδράργυρο).
+     <li> φώτα που περιβάλλουν ολόκληρο το παπούτσι, όχι μόνο τη φτέρνα, και ασφαλείς επαναφορτιζόμενες μπαταρίες USB (χωρίς υδράργυρο). </li>
       
-    d. Παπούτσια LED κατασκευασμένα με μικροελεγκτή Arduino. Με βάση την πίεση που ασκείται σε αυτές τις περιοχές (δάχτυλα των ποδιών και φτέρνες), διαφορετικές
+     <li> Παπούτσια LED κατασκευασμένα με μικροελεγκτή Arduino. Με βάση την πίεση που ασκείται σε αυτές τις περιοχές (δάχτυλα των ποδιών και φτέρνες), διαφορετικές
          εντάσεις και χρώματα των φώτων LED θα εμφανίζονται στα παπούτσια. Tα φώτα LED είναι προγραμματισμένα με κωδικό Arduino, χρησιμοποιώντας μικροελεγκτή FLORA. Ο 
-         μικροελεγκτής είναι ραμμένος στο πτερύγιο των παπουτσιών και το κύκλωμα τροφοδοτείται από επαναφορτιζόμενες μπαταρίες.
+         μικροελεγκτής είναι ραμμένος στο πτερύγιο των παπουτσιών και το κύκλωμα τροφοδοτείται από επαναφορτιζόμενες μπαταρίες. </li>
+</ol>
 
 - Ανταγωνιστικά Προϊόντα:
        <ol>
        <li><a href="https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all ">Link1</a></li>
        <li><a href="https://learn.adafruit.com/firewalker-led-sneakers/overview">Link2</a></li>
        <li><a href="https://m.lightinthebox.com/narrow/light-up-shoes-kids-shoes3_37195?a=266513_a10991t0">Link3</a></li>
-       <li><a href="https://www.amazon.com/Carters-Atlas-Sneaker-Multi-Toddler/dp/B08ZJSX8FF/ref=mp_s_a_1_6?keywords=light+up+shoes+for+kids&qid=1648746168&sr=8-6
-">Link4</a></li>
-      <li><a href="https://www.skechers.com/kids/boys/s-lights-thermo-flash/400106L.html">Link5</a></li>
-      <li><a href="https://www.skechers.com/kids/boys/s-lights-skech-o-saurus-lights/400110L.html">Link6</a></li>
-     <li><a href="https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html">Link7</a></li>
-     <li><a href="https://www.zappos.com/p/skechers-kids-lighted-light-storm-2-0-400150n-toddler-black-red/product/9616080/color/144">Link8</a></li>
-     <li><a href="https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1
-">Link9</a></li>
+       <li><a href="https://www.amazon.com/Carters-Atlas-Sneaker-Multi-Toddler/dp/B08ZJSX8FF/ref=mp_s_a_1_6?keywords=light+up+shoes+for+kids&qid=1648746168&sr=8-6">Link4</a></li>
+       <li><a href="https://www.skechers.com/kids/boys/s-lights-thermo-flash/400106L.html">Link5</a></li>
+       <li><a href="https://www.skechers.com/kids/boys/s-lights-skech-o-saurus-lights/400110L.html">Link6</a></li>
+       <li><a href="https://www.skechers.com/kids/boys/s-lights-mega-surge/400130L.html">Link7</a></li>
+       <li><a href="https://www.zappos.com/p/skechers-kids-lighted-light-storm-2-0-400150n-toddler-black-red/product/9616080/color/144">Link8</a></li>
+       <li><a href="https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1">Link9</a></li>
     </ol>
 
 
-  - Τεχνολογίες που επρόκειτο να χρησμοποιήσομε:
+ - Τεχνολογίες που επρόκειτο να χρησμοποιήσομε:
   <ol>
  <li>LilyPad Arduino 328 Main Board, που είναι έναArduino-programmed microcontroller. Έχει σχεδιαστεί για να ενσωματώνεται εύκολα σε ηλεκτρονικά υφάσματα και
      projects που φοριούνται. Προσφέρει την ίδια λειτουργικότητα που βρίσκετε σε άλλες πλακέτες Arduino, σε μια ελαφριά, στρογγυλή συσκευασία σχεδιασμένη να
@@ -140,10 +139,7 @@ A. Ο Γίωργος είναι 11 ετών και κάθε απόγευμα σ�
 
 Ακολουθούν φωτογραφίες από το αντικείμενο:
 
-1.![αρχείο λήψης (1)](https://user-images.githubusercontent.com/101007425/172478576-6a597913-42f9-4606-91da-6541dcaa7ace.jpg)
-2.![αρχείο λήψης (2)](https://user-images.githubusercontent.com/101007425/172478627-27e8b505-1357-4da5-a275-b0e08bf0ddb5.jpg)
-3.![αρχείο λήψης](https://user-images.githubusercontent.com/101007425/172478649-cb25932c-8aed-4bfe-b0f6-4ce9cb12113d.jpg)
-4.![αρχείο λήψης (3)](https://user-images.githubusercontent.com/101007425/172478667-61036266-c8f3-428c-9210-fca346eaa963.jpg)
+
 
 2 video της διαδικασίας (πως λειτουργεί το interaction design στο σντικείμενο μας):
 <ol>
