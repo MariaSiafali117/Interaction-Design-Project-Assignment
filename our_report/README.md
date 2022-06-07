@@ -65,7 +65,7 @@
      
        <a href="https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all ">Link1</a>
 
-        https://learn.adafruit.com/firewalker-led-sneakers/overview
+       <a href="https://learn.adafruit.com/firewalker-led-sneakers/overview">Link2</a>
 
         https://m.lightinthebox.com/narrow/light-up-shoes-kids-shoes3_37195?a=266513_a10991t0
 
