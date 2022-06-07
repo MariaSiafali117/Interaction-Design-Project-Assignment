@@ -76,7 +76,7 @@
 ">Link9</a></li>
     </ol>
 
-  -  Τεχνολογίες που επρόκειτο να χρησμοποιήσομε:
+  - Τεχνολογίες που επρόκειτο να χρησμοποιήσομε:
  
   a. LilyPad Arduino 328 Main Board, που είναι έναArduino-programmed microcontroller. Έχει σχεδιαστεί για να ενσωματώνεται εύκολα σε ηλεκτρονικά υφάσματα και
      projects που φοριούνται. Προσφέρει την ίδια λειτουργικότητα που βρίσκετε σε άλλες πλακέτες Arduino, σε μια ελαφριά, στρογγυλή συσκευασία σχεδιασμένη να
@@ -145,9 +145,9 @@ A. Ο Γίωργος είναι 11 ετών και κάθε απόγευμα σ�
 
 2 video της διαδικασίας (πως λειτουργεί το interaction design στο σντικείμενο μας):
 <ol>
-<li><a href="(https://www.youtube.com/watch?v=56yvXfDe9Dg) ">Video 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=56yvXfDe9Dg">Video 1</a></li>
 
-<li><a href="(https://youtu.be/i_mtoevnhvM) ">Video 2</a></li>
+<li><a href="https://youtu.be/i_mtoevnhvM">Video 2</a></li>
 </ol>
 
  
