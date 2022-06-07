@@ -139,9 +139,10 @@ A. Ο Γίωργος είναι 11 ετών και κάθε απόγευμα σ�
 
 Ακολουθούν φωτογραφίες από το αντικείμενο:
 
-|![photo 1](https://user-images.githubusercontent.com/101007425/172490434-9efb0a74-b3ec-4b8f-80d2-38faeacc4af9.jpg)|
--
-
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="![photo 1](https://user-images.githubusercontent.com/101007425/172491664-20128ff4-1ca1-4f9e-a722-d721fd18b619.jpg)">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="![photo 2](https://user-images.githubusercontent.com/101007425/172491688-c7f8ff5a-bde0-45ac-b976-924a6c652b1c.jpg)">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="![photo 3](https://user-images.githubusercontent.com/101007425/172491718-7c01dc2a-24fb-4de7-b7b4-0913d5042a2a.jpg)">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="![photo 4](https://user-images.githubusercontent.com/101007425/172491743-1e1e3c68-345b-49d2-bc0c-c93f31efdf3e.jpg)">  | 
 
 
 
