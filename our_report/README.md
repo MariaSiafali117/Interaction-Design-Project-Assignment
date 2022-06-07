@@ -63,7 +63,7 @@
 
      - Ανταγωνιστικά Προϊόντα:
      
-        https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all
+       <a href="https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all ">Link1</a>
 
         https://learn.adafruit.com/firewalker-led-sneakers/overview
 
