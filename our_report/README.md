@@ -62,6 +62,14 @@
          μικροελεγκτής είναι ραμμένος στο πτερύγιο των παπουτσιών και το κύκλωμα τροφοδοτείται από επαναφορτιζόμενες μπαταρίες.
 
      - Ανταγωνιστικά Προϊόντα:
+
+       <ol>
+  
+  <li> <a href="https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all ">- Link1</a></li>
+  <li>Tea</li>
+  <li>Milk</li>
+  
+</ol
      
        <a href="https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all ">- Link1</a>
 
