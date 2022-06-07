@@ -83,7 +83,7 @@
        <li><a href="https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1
 ">Link9</a></li>
 
-</ol>
+ </ol>
 
      - Τεχνολογίες που επρόκειτο να χρησμοποιήσομε:
       
