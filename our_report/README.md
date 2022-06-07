@@ -61,7 +61,7 @@
          εντάσεις και χρώματα των φώτων LED θα εμφανίζονται στα παπούτσια. Tα φώτα LED είναι προγραμματισμένα με κωδικό Arduino, χρησιμοποιώντας μικροελεγκτή FLORA. Ο 
          μικροελεγκτής είναι ραμμένος στο πτερύγιο των παπουτσιών και το κύκλωμα τροφοδοτείται από επαναφορτιζόμενες μπαταρίες.
 
-  - Ανταγωνιστικά Προϊόντα:
+- Ανταγωνιστικά Προϊόντα:
        <ol>
        <li><a href="https://learn.sparkfun.com/tutorials/diy-light-up-shoes/all ">Link1</a></li>
        <li><a href="https://learn.adafruit.com/firewalker-led-sneakers/overview">Link2</a></li>
