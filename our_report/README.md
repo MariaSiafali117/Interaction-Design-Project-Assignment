@@ -75,10 +75,10 @@
      <li><a href="https://www.zappos.com/p/skechers-kids-sport-lighted-rainbow-racer-302300n-toddler-blue/product/9400417/color/158?zlfid=191&ref=pd_search_1_sp_1
 ">Link9</a></li>
     </ol>
- 
-  - Τεχνολογίες που επρόκειτο να χρησμοποιήσομε:
+
+- Τεχνολογίες που επρόκειτο να χρησμοποιήσομε:
   
-      
+     
    a. LilyPad Arduino 328 Main Board, που είναι έναArduino-programmed microcontroller. Έχει σχεδιαστεί για να ενσωματώνεται εύκολα σε ηλεκτρονικά υφάσματα και
       projects που φοριούνται. Προσφέρει την ίδια λειτουργικότητα που βρίσκετε σε άλλες πλακέτες Arduino, σε μια ελαφριά, στρογγυλή συσκευασία σχεδιασμένη να
       ελαχιστοποιεί το snagging  και το profile, με wide tads που μπορούν να ραφτούν και να συνδεθούν με αγώγιμο νήμα. Το LilyPad Arduino αποτελείται από ένα
