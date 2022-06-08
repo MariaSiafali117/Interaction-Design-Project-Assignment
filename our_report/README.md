@@ -137,14 +137,21 @@ A. Ο Γίωργος είναι 11 ετών και κάθε απόγευμα σ�
 
 7.**PROTOTYPES**
 
-Ακολουθούν φωτογραφίες από το αντικείμενο:
+Ακολουθούν φωτογραφίες :camera: από το αντικείμενο:
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/101007425/172492334-6165919f-b6c2-4d70-bee0-86d890ff8c08.jpg">  |  <img width="1604" src="https://user-images.githubusercontent.com/101007425/172492280-0c30abf4-69d4-44ca-8856-d62a41657316.jpg">|<img width="1604"  src="https://user-images.githubusercontent.com/101007425/172492366-5c34f12d-a5bf-468a-9673-c8ea7d30298a.jpg"> | <img width="1604"  src="https://user-images.githubusercontent.com/101007425/172492449-e63a27a1-b177-41f9-84f0-f70b67db94e9.jpg"> | <img width="1604"  src="https://user-images.githubusercontent.com/101007425/172493175-d74d0948-8ec4-41c8-96a7-1f5c9b0eed56.png">    
 
 
-2 video της διαδικασίας (πως λειτουργεί το interaction design στο σντικείμενο μας):
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1610" src="https://user-images.githubusercontent.com/101007425/172566395-dd8bea2f-1ba2-41e6-9ef8-b1d6bc829d57.jpg">  |  <img width="1604" src="https://user-images.githubusercontent.com/101007425/172566575-ed41393d-86cc-4980-b147-162924d7ce4f.jpg">|<img width="1610"  src="https://user-images.githubusercontent.com/101007425/172566670-0f591e9a-e5b0-43de-b874-96486eb0c11f.jpg"> | <img width="1604"  src="https://user-images.githubusercontent.com/101007425/172492449-e63a27a1-b177-41f9-84f0-f70b67db94e9.jpg"> | <img width="1604"  src="https://user-images.githubusercontent.com/101007425/172493175-d74d0948-8ec4-41c8-96a7-1f5c9b0eed56.png">    
+ 
+
+
+
+2 video :video_camera: της διαδικασίας (πως λειτουργεί το interaction design στο σντικείμενο μας):
 <ol>
 <li><a href="https://www.youtube.com/watch?v=56yvXfDe9Dg">Video 1</a></li>
 
